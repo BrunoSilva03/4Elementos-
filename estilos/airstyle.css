@@ -1,3 +1,5 @@
 body {
-    background-color: aliceblue;
+    /*background-color: #f0f8ff;*/
+    background-image: linear-gradient(to top, #F0F8FF, #EBF3FA, #A0D1FB);
+    background-attachment: fixed;
 }

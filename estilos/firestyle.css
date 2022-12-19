@@ -1,3 +1,5 @@
 body {
-    background-color: orange
+    /*background-color: #ffa500*/
+    background-image: linear-gradient(to top, #FF5201, #FAA150, #FBBD4B);
+    background-attachment: fixed;
 }
